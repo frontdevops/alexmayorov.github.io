@@ -1,6 +1,6 @@
 ---
-Title: AMP от Google. Ускоряемся и взлетаем в выдаче
-Description: Статья про новую web технологию от Google
+title: AMP от Google. Ускоряемся и взлетаем в выдаче
+description: Статья про новую web технологию от Google
 ---
 
 Кстати, тут [новый выпуск журнала](http://samag.ru/archive/more/163) вышел с моей публикацией "AMP от Google.
