@@ -4,6 +4,22 @@ permalink: about/
 profile: true
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+Меня зовут Александр Майоров. Я искренне люблю веб-разработку и новые технологии, а в свободное время [делюсь своим опытом в блоге](https://medium.com/@frontman).
+
+Сейчас живу в Москве, работаю в Tutu.ru.
+
+Мои интересы обширны:
+- JavaScript, TypeScript, Nodejs
+- HTML5, CSS3, CSS4
+- Nginx, H2O
+- php7 / HHVM / Hacklang
+- Docker
+- IoT, RaspberryPI, Tessel.io
+ 
+Помогаю находить профессионалов.
+
+Помогу найти веб-разработчика и провести техническое собеседование по JavaScript, верстке, PHP, ...
+
+В свободное от работы время играю в страйкбол. (СК, Таволга, 1ое отделение, группа Тау). Люблю оружие и тактические игры.
 
 {% include footer.html %}
