@@ -8,16 +8,7 @@ profile: true
 
 Сейчас живу в Москве, работаю в компании Tutu.ru руководителем Frontend отдела.
 
-Мои интересы обширны:
-
-- JavaScript, TypeScript, Nodejs
-- HTML5, CSS3, CSS4
-- Nginx, H2O
-- php7 / HHVM / Hacklang
-- Docker
-- IoT, RaspberryPI, Tessel.io
-
-<br><br>
+Мои интересы обширны: JavaScript, TypeScript, Nodejs, HTML5, CSS3+, Nginx, PHP7, Hacklang, Docker, IoT, RaspberryPI, Tessel.io
 
 ## Помогаю находить профессионалов
 Помогу найти веб-разработчика и провести техническое собеседование по JavaScript, верстке, PHP, ...
