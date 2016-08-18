@@ -9,7 +9,7 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: '//www.majorov.su'
+domain_name: 'https://www.majorov.su'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: true
 disqus_shortname: 'frontdevops'
