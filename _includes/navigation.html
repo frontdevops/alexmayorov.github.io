@@ -9,14 +9,10 @@
         {% endif %}
     {% endif %}
     {% if page.url != "/seniority/" %}
-        {% if site.seniorityPage %}
-            <a href="{{ site.baseurl }}seniority">Seniority</a>
-        {% endif %}
+        <a href="{{ site.baseurl }}seniority">Seniority</a>
     {% endif %}
     {% if page.url != "/vc/" %}
-        {% if site.vcPage %}
-            <a href="{{ site.baseurl }}vc">VC</a>
-        {% endif %}
+        <a href="{{ site.baseurl }}vc">VC</a>
     {% endif %}
     <a class="cta" href="{{ site.baseurl }}feed.xml">Subscribe</a>
 </nav>
