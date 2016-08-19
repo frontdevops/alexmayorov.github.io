@@ -1,9 +1,9 @@
 ---
-title: VC
-permalink: vc/
+title: CV
+permalink: cv/
 profile: true
 ---
 
-## VC
+## CV
 
 {% include footer.html %}
