@@ -4,7 +4,7 @@ meta_description: "Front and back-end engineer. JavaScript addict."
 
 aboutPage: true
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 
 paginate: 20
