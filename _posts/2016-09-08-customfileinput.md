@@ -20,6 +20,7 @@ description: Небольшой туторила как кастомизиров
 С помощью JS мы не можем имитировать клик на file input. Вот что говорится об этом в описании спецификации к DOM:
 
 > Simulate a mouse-click. For INPUT elements whose type attribute has one of the following values: “button”, “checkbox”, “radio”, “reset”, or “submit”.
+
 > - No Parameters
 > - No Return Value
 > - No Exceptions
