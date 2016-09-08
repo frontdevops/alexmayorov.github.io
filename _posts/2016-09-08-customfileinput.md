@@ -37,6 +37,7 @@ description: Небольшой туторила как кастомизиров
 Но есть способ лучше и правильнее, на мой взгляд. Это кастомизация тега label и тригеринг клика через него.
 
 И так, минимальный HTML код для кастомизации file input тега:
+
 ```html
 <input type="file" name="file" id="file" class="inputfile" />
 <label for="file">Choose a file</label>
@@ -47,6 +48,7 @@ description: Небольшой туторила как кастомизиров
 Как видите триггер на клик срабатывает через наш label, но мы видим так же наш тег input.
 
 ### Скрываем input
+
 ```css
 .inputfile {
 	width: 0.1px;
@@ -59,6 +61,7 @@ description: Небольшой туторила как кастомизиров
 ```
 
 ### Стилизуем label
+
 ```css
 .inputfile + label {
     font-size: 1.25em;
@@ -103,6 +106,7 @@ description: Небольшой туторила как кастомизиров
 ![](http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/smart-custom-file-input-4.gif)
 
 ### Доступность в Touch устройствах
+
 ```html
 <label for="file"><strong>Choose a file</strong></label>
 ```
@@ -114,6 +118,7 @@ description: Небольшой туторила как кастомизиров
 ```
 
 ## Улучшаем с помощью JS
+
 ```html
 <input type="file" name="file" id="file" class="inputfile" data-multiple-caption="{count} files selected" multiple />
 ```
