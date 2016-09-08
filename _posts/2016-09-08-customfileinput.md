@@ -19,12 +19,10 @@ description: Небольшой туторила как кастомизиров
 ## Проблемы
 С помощью JS мы не можем имитировать клик на file input. Вот что говорится об этом в описании спецификации к DOM:
 
-	Simulate a mouse-click. For INPUT elements whose type attribute has one of the following values: “button”, “checkbox”,
-	“radio”, “reset”, or “submit”.
-
-	- No Parameters
-	- No Return Value
-	- No Exceptions
+> Simulate a mouse-click. For INPUT elements whose type attribute has one of the following values: “button”, “checkbox”, “radio”, “reset”, or “submit”.
+> - No Parameters
+> - No Return Value
+> - No Exceptions
 
 То есть методом click мы можем тригерить клик почти на всех типах инпутов, но не на input file. Это сделано чтобы обезопасить клиента: иначе вебстраница могла бы получать любые файлы с компьютера клиента. Хотя с другой стороны, по клику вызывается только окно выбора файла. Так или иначе, в MDN Firefox этот факт обозначен как баг.
 
